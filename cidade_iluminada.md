@@ -2,15 +2,16 @@
 
 **Tecnologias**
 - Vuejs
-- PWA - Quasar
+- Quasar or Vuetify
+- Capacitor - Android e IOS
 - Store: Vuex
 - Eslint: erp
 - Bundler: Webpack
 - Http: Axios
 - Mapa: Leaftlet
 - Google maps api
-- Jwt(15 min)
-
+- Jwt (15 min)
+- VueI18n - tradução
 
 **Padrão de projeto e pastas**
 ```
